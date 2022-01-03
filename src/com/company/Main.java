@@ -17,6 +17,7 @@ public class Main {
         int thirdElement = intArray[3];//-5
 
         System.out.println(secondElement);
+        System.out.println(firstElement);
 
         // how to set a new value to an element by its index
         intArray[2] = 12;//{15, 8, 12, -5}
